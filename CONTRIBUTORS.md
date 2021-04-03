@@ -1,5 +1,5 @@
 | Name             | Github profile                                         | Contribution          |
 |------------------|--------------------------------------------------------|-----------------------|
 | Samuel           | [github.com/samzing777](https://github.com/samzing777) | Owner                 |
-| Daniel Glover    | [github.com/danny                                      | Added other solutions |
+| Daniel Glover    | [github.com/programmerdanny](https://github.com/programmerdanny)| Contributor  |
 
