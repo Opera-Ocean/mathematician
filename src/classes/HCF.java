@@ -92,6 +92,11 @@ public class HCF extends javax.swing.JFrame {
                 input1MouseClicked(evt);
             }
         });
+        input1.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                input1ActionPerformed(evt);
+            }
+        });
 
         line5.setFont(new java.awt.Font("Cambria Math", 0, 14)); // NOI18N
         line5.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
@@ -606,6 +611,10 @@ public class HCF extends javax.swing.JFrame {
         
         System.out.println("\u007D");
     }//GEN-LAST:event_checkActionPerformed
+
+    private void input1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_input1ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_input1ActionPerformed
 
     public static void main(String args[]) {
         /* Set the Nimbus look and feel */
